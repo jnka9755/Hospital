@@ -9,6 +9,6 @@ public class Automatico {
 	@Scheduled(fixedDelay = 5000)
 	public void metodo1() {
 		
-		System.out.println("Hola mundo!");
+		System.out.println("Jenkins!");
 	}
 }
