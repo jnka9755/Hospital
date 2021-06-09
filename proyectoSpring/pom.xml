@@ -12,6 +12,7 @@
 	<groupId>co.edu.unicundi</groupId>
 	<artifactId>proyectoSpring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>proyectoSpring</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
